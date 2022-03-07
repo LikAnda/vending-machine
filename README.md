@@ -16,3 +16,17 @@ A small things vending machine with a raspberry.
 ## Run
 
 - `sudo node index.js`
+
+- To activate the system remotely, go to `ip-of-the-raspberry:2000`
+
+----
+
+### Packages
+
+- express
+
+- johny-five
+
+- raspi-io
+
+- socket.io

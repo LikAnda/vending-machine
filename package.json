@@ -1,0 +1,25 @@
+{
+  "name": "vending-machine",
+  "version": "1.0.0",
+  "description": "A small things vending machine with a raspberry.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LikAnda/vending-machine.git"
+  },
+  "author": "LikAnda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LikAnda/vending-machine/issues"
+  },
+  "homepage": "https://github.com/LikAnda/vending-machine#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "johnny-five": "^2.1.0",
+    "raspi-io": "^11.0.0",
+    "socket.io": "^4.4.1"
+  }
+}
